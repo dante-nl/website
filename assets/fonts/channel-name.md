@@ -3,3 +3,9 @@
 :question:〡faq
 :heart:〡boosters
 📚〡roles
+📷〡media
+🤖〡bots
+💬〡chat
+👋〡introduce
+🎉〡giveaways
+🎮〡events
